@@ -1,0 +1,7 @@
+[package]
+name = "simple_noir_game"
+type = "bin"
+authors = [""]
+compiler_version = ">=0.26.0"
+
+[dependencies]
